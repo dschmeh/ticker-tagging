@@ -22,7 +22,7 @@ Top 2.500 domains (based on [Gripsintelligence](https://gripsintelligence.com/)h
 |no_employes|number of employees|
 |founding_date|Year the company was founded|
 |location|Headquarter location|
-|related_domains|other domains relaterd to the comapny|
+|related_domains|other domains related to the company|
 |domain|initial checked domain|
 
 ## API (Alpha)

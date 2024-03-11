@@ -8,7 +8,7 @@ A free to use dataset mapping the largest domains to Stock Ticker Symbols
 Top 10.000 domains (based on [Google Crux Ranking](https://developer.chrome.com/docs/crux) (deduplicated and removed subdomains) mapped to stock symbols.
 
 ### Top ecommerce Domains
-Top 2.500 domains (based on [Gripsintelligence](https://gripsintelligence.com/)https://gripsintelligence.com/ (Dataset is focused on US and EU5 Countries)) mapped to stock symbols.
+Top 5.000 domains (based on [Gripsintelligence](https://gripsintelligence.com/)https://gripsintelligence.com/ (Dataset is focused on US and EU5 Countries)) mapped to stock symbols.
 
 ### Data Dictionary
 
